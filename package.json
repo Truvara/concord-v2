@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@emotion/react": "^11.13.5",
+    "@emotion/styled": "^11.13.5",
+    "@mui/material": "^6.1.9",
+    "@react-jvectormap/core": "^1.0.4",
+    "@react-jvectormap/world": "^1.1.2",
+    "@refinedev/core": "^4.56.0",
+    "chart.js": "^4.4.7",
+    "framer-motion": "^11.13.1"
+  },
+  "devDependencies": {
+    "@types/chart.js": "^2.9.41",
+    "@types/node": "^22.10.1",
+    "@types/react": "^18.3.12"
+  }
+}
